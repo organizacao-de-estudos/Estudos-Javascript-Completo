@@ -1,2 +1,2 @@
 # Estudos-Javascript-Completo
-Repositório dedicado aos exercícios e projeto do meu estudo aprofundado de JavaScript (ES6+)
+Repositório dedicado aos exercícios e projeto do meu estudo aprofundado de JavaScript
